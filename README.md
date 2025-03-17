@@ -1,24 +1,24 @@
-# Hi, I'm Issam 👋
+# Issam El Khaili
 
-Welcome to my GitHub profile! I'm currently a student at **42 Network**, learning **programming** and **software development**. I'm passionate about improving my skills and exploring new technologies as I continue my education journey.
+## Software Developer | 42 Network Student | Aspiring Security Specialist
 
-## 🎓 42 Network Student:
-- I'm currently studying at **42 Network**, where I am working on **problem-solving**, **algorithms**, and **coding challenges**.
-- I enjoy the **project-based** learning style of 42 and love the challenges it presents.
+---
 
-## 🌱 I’m currently learning:
-- Programming fundamentals (C, Python, and more).
-- Problem-solving algorithms and data structures.
-- Understanding the principles of **software engineering**.
+Currently building a strong technical foundation in systems programming, algorithms, and networking at 42 Network. My diverse technical learning path serves one purpose: developing the comprehensive skillset required for cybersecurity.
 
-## 💬 Let's connect:
-- **Email**: [elkhailiissam0@gmail.com](mailto:elkhailiissam0@gmail.com)
-- **LinkedIn**: [linkedin.com/in/issamelkhaili](https://linkedin.com/in/issamelkhaili)
+### Technical Foundation
 
-## 📫 How to reach me:
-Feel free to reach out if you're also a 42 Network student or just want to chat about programming and tech!
+- **Programming**: C/C++, Python, Shell scripting
+- **Systems**: Unix/Linux environments, OS architecture
+- **Networking**: TCP/IP protocols, network architecture
+- **Development**: Version control (Git), automation, testing methodologies
 
-## ⚡ Fun fact:
-- I love tackling coding challenges and improving my problem-solving skills.
+### Career Trajectory
 
-> "Learning is the key to progress, and every challenge is an opportunity to grow."
+Building expertise across multiple domains as stepping stones toward specialization in cybersecurity. My approach emphasizes understanding systems from first principles rather than surface-level knowledge.
+
+### Contact
+
+For professional inquiries:  
+**Email**: elkhailiissam0@gmail.com  
+**LinkedIn**: [linkedin.com/in/issamelkhaili](https://linkedin.com/in/issamelkhaili)
