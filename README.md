@@ -9,10 +9,5 @@ I care about:
 - understanding how things work under the hood
 - keeping code simple enough to survive future me
 
-I don’t chase trends. I learn what I need, when I need it, and move on.
-
-If you’re looking for flashy demos, this profile isn’t that.  
-If you’re looking for someone who actually builds and maintains things, you’re in the right place.
-
 —
 LinkedIn: https://www.linkedin.com/in/elkhailiissam
