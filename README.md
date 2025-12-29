@@ -1,24 +1,18 @@
-# Issam El Khaili
+I build things, usually alone, usually the hard way.
 
-## Software Developer | 42 Network Student | Aspiring Security Specialist
+I work across web, systems, and automation. Some days it’s backend code, some days it’s fixing something I broke the night before, some days it’s shipping a feature because people are actually using it.
 
----
+A lot of what I build is commercial or startup work, so most real projects live in private repos. What’s public here is experiments, tools, and parts I’m allowed to show.
 
-Currently building a strong technical foundation in systems programming, algorithms, and networking at 42 Network. My diverse technical learning path serves one purpose: developing the comprehensive skillset required for cybersecurity.
+I care about:
+- shipping things that don’t fall apart
+- understanding how things work under the hood
+- keeping code simple enough to survive future me
 
-### Technical Foundation
+I don’t chase trends. I learn what I need, when I need it, and move on.
 
-- **Programming**: C/C++, Python, Shell scripting
-- **Systems**: Unix/Linux environments, OS architecture
-- **Networking**: TCP/IP protocols, network architecture
-- **Development**: Version control (Git), automation, testing methodologies
+If you’re looking for flashy demos, this profile isn’t that.  
+If you’re looking for someone who actually builds and maintains things, you’re in the right place.
 
-### Career Trajectory
-
-Building expertise across multiple domains as stepping stones toward specialization in cybersecurity. My approach emphasizes understanding systems from first principles rather than surface-level knowledge.
-
-### Contact
-
-For professional inquiries:  
-**Email**: elkhailiissam0@gmail.com  
-**LinkedIn**: [linkedin.com/in/issamelkhaili](https://linkedin.com/in/issamelkhaili)
+—
+LinkedIn: https://www.linkedin.com/in/elkhailiissam
