@@ -8,6 +8,3 @@ I care about:
 - shipping things that don’t fall apart
 - understanding how things work under the hood
 - keeping code simple enough to survive future me
-
-—
-LinkedIn: https://www.linkedin.com/in/elkhailiissam
